@@ -72,4 +72,4 @@ It is structured into **five sections** covering fundamental to advanced concept
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/cybersecurity-awareness-training.git](https://github.com/WitInMotion/CyberSassy-AgenticAI-Project)
+   git clone https://github.com/WitInMotion/CyberSassy-AgenticAI-Project
